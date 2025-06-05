@@ -1,0 +1,18 @@
+{
+    "name": "com.fixer33.simple-animation.Editor",
+    "rootNamespace": "SimpleAnimation.Editor",
+    "references": [
+        "GUID:4d2fb9a4c896c1c41b8bce204982fe2c"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

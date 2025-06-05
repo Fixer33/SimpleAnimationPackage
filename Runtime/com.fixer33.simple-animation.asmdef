@@ -1,0 +1,14 @@
+{
+    "name": "com.fixer33.simple-animation",
+    "rootNamespace": "SimpleAnimation",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
