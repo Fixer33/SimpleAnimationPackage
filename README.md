@@ -1,14 +1,17 @@
 
 # Simple animation package for Unity Engine
 
-This custom Unity package is designed to provide a simple way to animate objects on scene.
-
-Primarily for UI
+This custom Unity package is planned to provide a simple way to work with Unity's Animator (planned, not yet implemented).
 
 ## Authors
 
 - [@Fixer33](https://github.com/Fixer33)
 
+
+## Documentation
+
+- [Package Description](Documentation/Package%20Description.md)
+- [Open Questions](Documentation/Open%20Questions.md)
 
 ## Installation
 
