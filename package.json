@@ -1,6 +1,6 @@
 {
   "name": "com.fixer33.simple-animation",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Simple animation",
   "description": "Simple way to work with Unity's Animator (planned, not yet implemented)",
   "unity": "6000.0",
